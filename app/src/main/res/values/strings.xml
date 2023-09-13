@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Family</string>
+    <string name="father">Папа</string>
+    <string name="mother">Мама</string>
+    <string name="brother1">Антон</string>
+    <string name="brother2">Евгений</string>
+    <string name="sister1">Маргарита</string>
+    <string name="brother3">Семен</string>
+    <string name="brother4">Мирослав</string>
+    <string name="sister2">Лилия</string>
+    <string name="brother5">Константин</string>
+    <string name="brother6">Виталий</string>
+    <string name="brother7">Ростислав</string>
+    <string name="sister3">Яна</string>
+    <string name="brother8">Андрей</string>
+    <string name="brother9">Геннадий</string>
+    <string name="brother10">Сергей</string>
+    <string name="brother11">Алексей</string>
+
+
+</resources>
