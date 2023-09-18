@@ -8,6 +8,7 @@ import com.example.family.adapter.ItemAdapter
 import com.example.family.data.Datasource
 
 //hello
+
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
