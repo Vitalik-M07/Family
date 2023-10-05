@@ -7,8 +7,6 @@ class Datasource {// fjgkf
     fun loadMember(): List<Member>{
         return listOf<Member>(
             Member(R.string.father, R.drawable.father),
-
-
             Member(R.string.mother, R.drawable.mother),
             Member(R.string.brother1, R.drawable.anton),
             Member(R.string.brother2, R.drawable.evgeniy),
